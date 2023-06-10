@@ -1,0 +1,50 @@
+body{
+	background-color:white;	
+}
+
+table{
+	width:150%;
+}
+td form {
+	margin:0;padding:0;
+}
+td form button.button{
+	padding:0.25em;margin:0.25em;
+	background:none;
+	color: black;
+	
+}
+td form button.button:hover{
+  	background:none;
+	color:steelblue;
+}
+h1 {
+	font-size: 30px;
+	margin-top: -180px;
+	font-family: Arial, sans-serif;
+	color: black;
+	text-align: center;
+  }
+
+  h2 {
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+	color: black;
+	text-align: center;
+  }
+
+  h3 {
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+	color:black;
+	text-align: center;
+  }
+
+ img{
+	width:  200px;
+	height: 200px;
+	display: auto;
+	margin:  auto;
+ }
+
+ 
